@@ -5,7 +5,7 @@
 - Projeto desenvolvido para um trabalho da faculdade
 
 ## Sobre o programa
-- Este projeto foi realizado por mim, Mattia Poletto, e minha equipe: Kaique Mendes, Gabriel Maier e Matheus Marques. Nesse desafio, buscamos ir além do que foi solicitado, tentando criar algo mais completo, mesmo que isso exigisse mais trabalho. Aprendemos na prática a necessidade de ferramentas como o Git e GitHub, que nos ajudaram a trabalhar em equipe de forma mais organizada, entre outras ferramentas que citarei logo abaixo.
+Este projeto foi realizado por mim, Mattia Poletto, e minha equipe: Kaique Mendes, Gabriel Maier e Matheus Marques. Nesse desafio, buscamos ir além do que foi solicitado, tentando criar algo mais completo, mesmo que isso exigisse mais trabalho. Aprendemos na prática a necessidade de ferramentas como o Git e GitHub, que nos ajudaram a trabalhar em equipe de forma mais organizada, entre outras ferramentas que citarei logo abaixo.
 
 ## Linguagem de programação utilizada
 - Linguagem C
