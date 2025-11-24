@@ -1,4 +1,4 @@
-# gerenciador-hospitalar
+# Gerenciador Hospitalar
 
 ## Objetivo
 - Desenvolver um programa de gerenciamento de internações hospitalares: controle de leitos, tempo de internação e status dos pacientes
