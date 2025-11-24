@@ -21,3 +21,4 @@ Nossa busca por um desafio maior e não ter medo das dificuldades nos trouxe mui
 ## Melhorias futuras
 - [ ] Refatorar código em certas partes para otimização
 - [ ] Corrigir alguns bugs de input
+- [ ] Modularizar os dados em arquivos JSON separados
